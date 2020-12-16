@@ -1,0 +1,11 @@
+body{
+    background-color: turquoise;
+}
+.b{
+    width: 100;
+    height: 50;
+    margin-top: 50;
+    margin-right: 50;
+    background-color: orange;
+    border-color: rebeccapurple;
+}
